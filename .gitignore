@@ -5,3 +5,4 @@ face_recognition_env/
 __pycache__/
 *.log
 prompt.txt
+.DS_Store
