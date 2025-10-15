@@ -1,0 +1,7 @@
+face_images/
+face_embeddings/
+output_videos/
+face_recognition_env/
+__pycache__/
+*.log
+prompt.txt
